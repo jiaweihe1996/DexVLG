@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">DexVLG</h1>
-  <p>DexVLG: Dexterous Vision-Language-Grasp Model at Scale (ICCV 2025)
+  <p>DexVLG: Dexterous Vision-Language-Grasp Model at Scale (ICCV 2025 Spotlight)
   </p>
 </div>
 
